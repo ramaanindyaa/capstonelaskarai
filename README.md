@@ -111,7 +111,7 @@ Scraper ini dibuat untuk tujuan pembelajaran. Harap perhatikan ketentuan layanan
 - 🤝 Tim Laskar AI
   - 👨‍💻 Rama Anindya: [GitHub](https://github.com/ramaanindyaa)
   - 👩‍💻 Febhe Maulita May Pramasta: [GitHub](https://github.com/fluffybhe)
-  - 👨‍💻 Anak Agung Ngurah Bagus Dwimantara: [GitHub](#)
+  - 👨‍💻 Anak Agung Ngurah Bagus Dwimantara: [GitHub](https://github.com/ajusdwimantara)
 
 <!-- ## 📜 Lisensi
 
