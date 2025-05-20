@@ -113,6 +113,6 @@ Scraper ini dibuat untuk tujuan pembelajaran. Harap perhatikan ketentuan layanan
   - 👩‍💻 Febhe Maulita May Pramasta: [GitHub](https://github.com/fluffybhe)
   - 👨‍💻 Anak Agung Ngurah Bagus Dwimantara: [GitHub](#)
 
-## 📜 Lisensi
+<!-- ## 📜 Lisensi
 
-Proyek ini dilisensikan di bawah lisensi [MIT](https://opensource.org/licenses/MIT).
+Proyek ini dilisensikan di bawah lisensi [MIT](https://opensource.org/licenses/MIT). -->
